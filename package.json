@@ -1,4 +1,4 @@
-{ "homepage": "https://Eduardopereira11967484018.github.io/wearther-app",
+{ "homepage": "https://wearther-app-eduardo.vercel.app/",
   "name": "weather-app",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +16,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
     "deploy": "gh-page -d dist"
 
   },
