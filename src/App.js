@@ -94,7 +94,7 @@ const App = () => {
   let icon;
 
   const date = new Date();
-
+// eslint-disable-next-line default-case
   switch (data.weather[0].main) {
     case "Clouds":
       icon = <IoMdCloudy />;
