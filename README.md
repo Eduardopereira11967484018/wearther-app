@@ -1,1 +1,1 @@
-# weather-app-starter
+# weather-app utilizando API gratuita react e tailwind 
